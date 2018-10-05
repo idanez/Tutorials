@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "author": "Daniel Motta",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.2"
+  }
+}
